@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi there 👋
+
+I'm Demonte and welcome to my github account where I showcase projects I'm working on.
+- 🔭 I’m currently working on some great projects! 
+- 🌱 I’m currently learning more on back-end development!
+- 👯 I’m looking to collaborate on any of my projects! Always glad to work together with others on a common goal!
+- 📫 How to reach me: demontewalker12@gmail.com
+
+
 
 <!--
 **thecoolguy2001/thecoolguy2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
